@@ -1,6 +1,1 @@
-[submodule "fuse-jna"]
-	path = fuse-jna
-	url = git@github.com:EtiennePerot/fuse-jna.git
-[submodule "NaverAuth"]
-	path = NaverAuth
-	url = git@github.com:c0untd0wn/NaverAuth.git
+
